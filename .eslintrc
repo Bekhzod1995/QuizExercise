@@ -1,0 +1,19 @@
+{
+    "parser": "babel-eslint",
+    "extends": "react",
+    "env": {
+        "browser": true,
+        "node": true
+    },
+    "settings": {
+        "react": {
+            "version": "detect"
+        }
+    },
+    "rules": {
+        "semi": ["error", "always"],
+        "indent": ["error", 2],
+        "react/prop-types": 0,
+        "camelcase": 0
+    }
+}
