@@ -44,7 +44,7 @@ class Results extends Component {
             <>
               <Radio.Group value={question.сorrect_Answer} key={question.id}>
                 <Card headStyle={{ color: '#933CCC' }}
-                  title={question.question}
+                  title={`${index + 1}. ${question.question}`}
                   style={{
                     width: 350,
                     height: 210,
