@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "antd": "^3.26.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-redux": "^7.1.3",
